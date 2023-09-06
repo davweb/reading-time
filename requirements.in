@@ -1,0 +1,9 @@
+autopep8
+fake-useragent
+html2text
+mypy
+pylint
+readabilipy
+readability-lxml
+requests
+types-requests

@@ -1,0 +1,3 @@
+from typing import Any
+
+def simple_json_from_html_string(input: str) -> dict[str, Any]: ...
